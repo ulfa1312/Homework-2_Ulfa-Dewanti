@@ -1,0 +1,38 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.about {
+   background-color: #eae5df;
+}
+
+.bg-colom {
+   background-color: #303648;
+}
+
+footer {
+   background-color: #303648;
+}
+
+hr {
+   border: 1px solid #ffffff;
+}
+
+.font-nama {
+   font-family: "Playfair Display", serif;
+   font-size: 100px;
+}
+
+.font-italic {
+   font-family: "Playfair Display", serif;
+}
+
+.font-hdr {
+   font-family: "Lato", sans-serif;
+}
+
+.font-txt {
+   font-family: "Montserrat", sans-serif;
+}
